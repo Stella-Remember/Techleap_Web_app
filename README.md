@@ -50,7 +50,7 @@ git clone https://github.com/Stella-Remember/Tech_Leap-_v1.0.git
 -Install Dependencies
 -Once inside the project directory, install all the necessary dependencies using npm:
 
-```bash```:
+```bash``
 Copy code
 npm install
 This will download all the required libraries and packages listed in the package.json file.
